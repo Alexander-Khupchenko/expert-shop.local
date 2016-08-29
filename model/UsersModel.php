@@ -100,3 +100,4 @@ function checkUserEmail($email){
     
     return $rs;
 }
+/*dgdgdgdf*/
